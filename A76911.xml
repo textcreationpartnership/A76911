@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody plot discovered to surprize the Tower, and the Parliament, as it was reported by one of the actors owne confession, who is in custody to the Serjeant at Armes of the House of Commons. Also how a party of Cavaliers have listed themselves under the Lord Cleaveland, their designed Generall of Horse, and Sir Marmaduke Langdale, their Lieutenant Generall of Foot. And forty collonels and other officers 1800 horse, and many foot said to be listed. And the grounds of reporting the Army to be comming to London; and the reports of His Majesty to be gone from the Isle of Wyght. Collonel Hudson committed to the Tower, and others apprehended. And a committee of the House of Commons appointed to examine the businesse, and double guards set about the Tower, and the prisoners kept up close. And an order of the House of Lords for examining Collonell Wilshire and others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76911</idno>
+            <idno type="STC">Wing B3289</idno>
+            <idno type="STC">Thomason E419_21</idno>
+            <idno type="STC">ESTC R204644</idno>
+            <idno type="EEBO-CITATION">99864108</idno>
+            <idno type="PROQUEST">99864108</idno>
+            <idno type="VID">161346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody plot discovered to surprize the Tower, and the Parliament, as it was reported by one of the actors owne confession, who is in custody to the Serjeant at Armes of the House of Commons. Also how a party of Cavaliers have listed themselves under the Lord Cleaveland, their designed Generall of Horse, and Sir Marmaduke Langdale, their Lieutenant Generall of Foot. And forty collonels and other officers 1800 horse, and many foot said to be listed. And the grounds of reporting the Army to be comming to London; and the reports of His Majesty to be gone from the Isle of Wyght. Collonel Hudson committed to the Tower, and others apprehended. And a committee of the House of Commons appointed to examine the businesse, and double guards set about the Tower, and the prisoners kept up close. And an order of the House of Lords for examining Collonell Wilshire and others.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Dec: 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161346:1" rendition="simple:additions"/>
+            <p>A BLOODY PLOT Diſcovered To ſurprize the Tower, and the Parlia<g ref="char:EOLhyphen"/>ment, <hi>as it was Reported by one of the Actors</hi> owne confeſſion, who is in cuſtody to the <hi>Serjeant at Armes of the Houſe of Commons.</hi>
+            </p>
+            <p>Alſo how a party of Cavaliers have liſted them<g ref="char:EOLhyphen"/>ſelves under the Lord <hi>Cleaveland,</hi> their deſigned Generall of Horſe, and Sir <hi>Marmaduke Langdale,</hi> their Lieutenant Generall of Foot.</p>
+            <p>AND Forty Collonels and other Officers 1800 Horſe, and many Foot ſaid to be Liſted.</p>
+            <p>And the grounds of Reporting the Army to be comming to <hi>London;</hi> And the Reports of His Majeſty to be gone from the Iſle of Wyght.</p>
+            <p>Collonell <hi>Hudſon</hi> committed to the Tower, and others apprehended.</p>
+            <p>And a Committee of the Houſe of Commons appointed to examine the buſi<g ref="char:EOLhyphen"/>neſſe, and double Guards ſet about the Tower, and the priſoners kept up cloſe.</p>
+            <p>And an Order of the Houſe of Lords for exa<g ref="char:EOLhyphen"/>mining Collonell <hi>Wiltſhire</hi> and others.</p>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in Smithfield, neer the Queenes-head Tavern, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:161346:2"/>
+            <pb n="3" facs="tcp:161346:2"/>
+            <head>THE Manner of the Plot, (ſo farre as it is <hi>Reported</hi>) <hi>to have ſurprized the Tower, and</hi> the Parliament, this preſent Tueſday, December 14. 1647. with other dangerous practiſes of Malig<g ref="char:EOLhyphen"/>nants, about the City of LONDON.</head>
+            <p>WHen <hi>Julius Caeſar</hi> was ſtain, a paper was found in his pocket, (which it ſeemes had been put into his hands by ſome body) that that day he ſhould be murthered in the Senate-houſe; therefore it is diſcreti<g ref="char:EOLhyphen"/>on, not to flight warnings, the old proverb is, <hi>Fore-warn'd fore-arm'd.</hi>
+            </p>
+            <p>There hath lately been ſeverall actions of Malignants about <hi>London,</hi> whereby the Par<g ref="char:EOLhyphen"/>liaments friends are troubled to ſee them ſo high. One meeting which they had in the <hi>Strand,</hi> was taken notice of by a Peere of the Realem, and reported to the Houſe of Lords, wherupon their Lordſhips paſſed this Order following.</p>
+            <pb n="4" facs="tcp:161346:3"/>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <p>Whereas this Houſe hath beene certainly infor<g ref="char:EOLhyphen"/>med, that ſome miſdemeanours have beene com<g ref="char:EOLhyphen"/>mitted by Collonel <hi>Wiltſhire,</hi> Mr. <hi>Pope,</hi> and o<g ref="char:EOLhyphen"/>thers, in or neere the three Cranes Taverne, and one <hi>Berks</hi> Houſe, keeping a Cooks ſhop, neere the Savoy in the Strand.</p>
+                  <p>It is Ordered by the Lords in Parliament Aſ<g ref="char:EOLhyphen"/>ſembled, that Mr. <hi>Edwards,</hi> and Mr, <hi>Carter,</hi> two of His Majeſties Juſtices of peace, ſhall ſend for the ſaid parties, and ſuch others as they ſhall think fit, and examine the ſaid buſineſſe: And afterwards make certificate thereof in writing to this Houſe, that ſuch further directions may bee given therein, as ſhall be meet.</p>
+                  <closer>
+                     <signed>John Browne Clere. Par.</signed>
+                     <dateline>
+                        <hi>Vera Copia</hi> 
+                        <date>
+                           <hi>December 13. 1647.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>On Munday the 13. of December, 1647. at night a Gentleman came to the Speaker of the Houſe of Commons, and told him that there were a great deſigne on foote to raiſe a new Army on the ſuddaine to ſur<g ref="char:EOLhyphen"/>prize the Parliament and the Tower, And that the Lord <hi>Cleaveland,</hi> was to be Gene<g ref="char:EOLhyphen"/>rall of the horſe, And Sir <hi>Marmaduke Lang<g ref="char:EOLhyphen"/>dale</hi> to be Leiuet Gen. of the Foot, and that ſome 40. Collonels and other Officers were
+<pb n="5" facs="tcp:161346:3"/>liſting of forces, about <hi>London,</hi> and that he himſelf was liſted, and had received advance monies. That theſe Officers met at a place in Smithfeild, and at another place neere <hi>Alderſgate,</hi> and other places about <hi>London,</hi> and had liſted divers horſe (it is ſaid about 1800. are liſted) and many Foot, (I omit di<g ref="char:EOLhyphen"/>vers particular things of what is diſcovered, becauſe the buſineſſe is under examination of a Committee of the Houſe of Commons, and therefore I ſhall omit to ſpeake of fur<g ref="char:EOLhyphen"/>ther particulars in it then what is publiquely ſpoken abroad, out of the Houſe, or that Committee.)</p>
+            <p>He hath both named diverſe of the Of<g ref="char:EOLhyphen"/>ficers and the places where they lifted, and of giving out Armes, advancemonies, and of the deſigne that on this preſent Tueſday, December 14. 1647. was the time appoint<g ref="char:EOLhyphen"/>ed to fal upon the Parliament, &amp; the Tower (and if ſuch a thing ſhould have been done) God knows what blood might have been ſpilt, and where it would end.</p>
+            <p>The <hi>Militia</hi> received advertiſement there<g ref="char:EOLhyphen"/>of from the Speaker that night, (<hi>viz.</hi> munday night) immediately after this Gentleman had
+<pb n="6" facs="tcp:161346:4"/>diſcovered it to him, (whoſe name, I omit becauſe it may give offence, he being ſtill un<g ref="char:EOLhyphen"/>der examination;) And he delivered him<g ref="char:EOLhyphen"/>ſelf to cuſtody, and hath ever ſince been in the cuſtody of the Sarieant of Armes, to the houſe of Commons.</p>
+            <p>The Lieutenant of the Tower, Col. <hi>Titch<g ref="char:EOLhyphen"/>burne,</hi> received alſo advertiſement from Mr. Speaker hereof, and that he had received in<g ref="char:EOLhyphen"/>timation, from the aforeſaid Gentleman, that one <hi>Hodskin</hi> or <hi>Hudſon,</hi> a Collonell, or ſome other conſiderable Officer, who had formerly ſerved the King in the late wars, would come to the Tower this preſent Tueſday morning, to conferre with ſome of the Kings Officers, and other Malignants, that are now priſon<g ref="char:EOLhyphen"/>ers in the Tower about it,</p>
+            <p>Upon the receipt of a Letter from the Speaker, giving notice to the Lieutenant of things to this purpoſe, This morning the guards were ordered to be doubled, and ſtrict guards ſet about the Tower for ſecurity ther<g ref="char:EOLhyphen"/>of.</p>
+            <p>And before noone one <hi>Hudſon,</hi> a Collonel, or other conſiderable Officer, who hath him in Armes againſt the Parliament, and ano<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:161346:4"/>of his of the ſame name (<hi>Hudſon</hi> alſo) came along with him, as the foreſaid Gentle<g ref="char:EOLhyphen"/>man had informed the Speaker.</p>
+            <p>The ſaid <hi>Hudſon</hi> and his brother being brought before the Lieutenant, (for whom he had laid waite) and after examination he was committed priſoner: and forthwith the ſaid Lieutenant of the Tower ſent a Let<g ref="char:EOLhyphen"/>ter to Mr. Speaker (the Houſe of Commons then ſiting.)</p>
+            <p>There is a Committee of the Houſe of Commons appointed by the Houſe to exa<g ref="char:EOLhyphen"/>mine the whole buſineſſe, which Committee ſate all this afternoon about it.</p>
+            <p>Many Cavaliers were obſerved to ride out of <hi>London</hi> this day, inſomuch that their num<g ref="char:EOLhyphen"/>bers were much taken notice of upon the high-wayes.</p>
+            <p>It is conjectured from what is diſcovered, that the ſigne was thus to have been.</p>
+            <p>The Cavaliers ingaged in it, to rumour a<g ref="char:EOLhyphen"/>broad Tueſday, <hi>December.</hi> and Wedneſday, <hi>viz.</hi> to morrow that the Arrow under Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> is comming to <hi>London,</hi> to quarter in the City.</p>
+            <p>When the City ſhould be in a diſtraction
+<pb n="8" facs="tcp:161346:5"/>as they ſuppoſed, at this news, if it did work any diviſions on Tueſday, then on Wedneſ<g ref="char:EOLhyphen"/>day to riſe and declare themſelves for the King.</p>
+            <p>And on Tueſday to raiſe alſo a Report a<g ref="char:EOLhyphen"/>bout the City, that his Majeſty is gone from the Iſle of <hi>Wyght,</hi> that ſo they might the bet<g ref="char:EOLhyphen"/>ter report his Majeſty to be with them on Wedneſday, when they begin to act their de<g ref="char:EOLhyphen"/>ſigne. Though for my part, if there were ſuch a reall deſigne by them, as carries too probable a face with it, yet, for my part, I doe beleeve that his Majeſty is ſo farre from ingageing in it, that he himſelfe will judge it to be ſome Jeſuited deſigne againſt him<g ref="char:EOLhyphen"/>ſelfe and the Parliament, rather then Hee would countenance it, eſpecially at this time, when things are in ſo faire a way of compo<g ref="char:EOLhyphen"/>ſure.</p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <date>
+                  <hi>Decemb.</hi> 13. 1647.</date>
+            </opener>
+            <p>
+               <hi>Imprimatur</hi> 
+            </p>
+            <closer>
+               <signed>Gilb. Mabbot.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
